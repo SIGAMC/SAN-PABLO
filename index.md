@@ -10,7 +10,7 @@
     <a-scene>
       <a-sky src="SAN PABLO.jpg" rotation="0 -130 0"></a-sky>
 
-      <a-text font="kelsonsans" value="A" width="6" position="-2.5 0.25 -1.5"
+      <a-text font="kelsonsans" value="EJELE LOCA" width="6" position="-2.5 0.25 -1.5"
               rotation="0 15 0"></a-text>
     </a-scene>
   </body>
